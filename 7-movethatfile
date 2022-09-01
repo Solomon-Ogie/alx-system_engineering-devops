@@ -1,0 +1,4 @@
+[master 9be20b6] Task 7
+ 2 files changed, 4 insertions(+)
+ create mode 100644 0x00-shell_basics/7-move-thatfile
+ create mode 100755 0x00-shell_basics/7-movethatfile
